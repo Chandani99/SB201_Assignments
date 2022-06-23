@@ -22,7 +22,7 @@ public class CharCount {
 	    	c=fr.read();
 	    }
 	    
-	    System.out.println("The no of occurance of char : "+ch+", is : "+count);
+	    System.out.println("The no of occurance of char : '"+ch+"', in file '"+f+"' is : "+count);
 
 	}
 
